@@ -1,0 +1,15 @@
+Explain the difference between Absolute and Relative Positioning?
+Solution:-
+Absolute                                     Relative
+i) Syntax                                    Syntax
+{                                             {
+    position: absolute;                        Position: relative;
+}                                             }
+
+ii) It describes something as                It describes something as dependent.
+independent.      
+
+iii) It will not break the normal            It will not break the normal            
+document flow to position the                document flow to position the
+element on the page.                         element on the page.
+
